@@ -1,0 +1,6 @@
+C:\Users\Echo\OneDrive\Hakan Csharp\20170809-1Con_Diziler\20170809-1Con_Diziler\bin\Debug\20170809-1Con_Diziler.exe.config
+C:\Users\Echo\OneDrive\Hakan Csharp\20170809-1Con_Diziler\20170809-1Con_Diziler\bin\Debug\20170809-1Con_Diziler.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170809-1Con_Diziler\20170809-1Con_Diziler\bin\Debug\20170809-1Con_Diziler.pdb
+C:\Users\Echo\OneDrive\Hakan Csharp\20170809-1Con_Diziler\20170809-1Con_Diziler\obj\Debug\20170809-1Con_Diziler.csprojResolveAssemblyReference.cache
+C:\Users\Echo\OneDrive\Hakan Csharp\20170809-1Con_Diziler\20170809-1Con_Diziler\obj\Debug\20170809-1Con_Diziler.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170809-1Con_Diziler\20170809-1Con_Diziler\obj\Debug\20170809-1Con_Diziler.pdb
